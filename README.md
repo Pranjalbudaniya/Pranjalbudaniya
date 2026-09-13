@@ -16,6 +16,7 @@
 <br/>
 <br/>
 
+
 <!-- Status Pills -->
 <p align="center">
   <img src="https://img.shields.io/badge/BUILDING_WITH-AI_%26_PROMPTS-6366f1?style=flat-square&logo=openai&logoColor=white&labelColor=0b0f19" alt="Building with AI" />
@@ -102,12 +103,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Pranjalbudaniya">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&ring_color=6366f1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&ring_color=6366f1&include_all_commits=true" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Pranjalbudaniya">
-        <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjalbudaniya&theme=tokyonight&hide_border=true&background=090d16&ring=6366f1&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+        <img height="185em" src="https://streak-stats.demolab.com/?user=Pranjalbudaniya&theme=tokyonight&hide_border=true&background=090d16&ring=6366f1&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -117,7 +118,7 @@
 
 <!-- Top Languages Card -->
 <a href="https://github.com/Pranjalbudaniya">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjalbudaniya&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pranjalbudaniya&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
 </a>
 
 </div>
@@ -131,7 +132,7 @@
 <div align="center">
 
 <a href="https://github.com/Pranjalbudaniya/studysnap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjalbudaniya&repo=studysnap&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0" alt="StudySnap" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pranjalbudaniya&repo=studysnap&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0" alt="StudySnap" />
 </a>
 
 </div>
