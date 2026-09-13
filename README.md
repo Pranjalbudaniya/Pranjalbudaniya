@@ -1,68 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:111111&height=160&section=header&text=pranjal.&fontSize=80&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=—%20still%20loading&descColor=555555&descSize=18&descAlignY=75" width="100%" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=pranjal.&template=glitch-cyber&height=160&duration=4s" width="100%" alt="pranjal." />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=700&color=CCCCCC&center=true&vCenter=true&width=550&lines=gamer.+music+head.+idea+machine.;html+%2B+python+%2B+pure+chaos.;i+get+ideas+at+2am+and+make+them+real.;the+grind+is+quiet.+the+results+won't+be." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&width=700&lines=gamer+first.+everything+else+second.;music+always+running+in+the+background.;html+%2B+python+%2B+pure+chaos.;vibe+coder.+AI+is+the+co-pilot.;too+many+ideas.+not+enough+hours." alt="Typing SVG" />
 </div>
 
-<br/>
+<br/><br/>
 
 ---
-
-<br/>
 
 ## `/ about`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 
-&nbsp;&nbsp;&nbsp;not a developer. not a designer.<br/>
-&nbsp;&nbsp;&nbsp;something in between that doesn't have a name yet.<br/><br/>
-&nbsp;&nbsp;&nbsp;🎮 &nbsp;gamer first. everything else is secondary.<br/>
-&nbsp;&nbsp;&nbsp;🎵 &nbsp;music is always running in the background.<br/>
-&nbsp;&nbsp;&nbsp;💡 &nbsp;too many ideas. not enough hours.<br/>
-&nbsp;&nbsp;&nbsp;🔨 &nbsp;vibe coder. AI is the co-pilot.<br/>
-&nbsp;&nbsp;&nbsp;☕ &nbsp;drop year → building → figuring it out.<br/>
+not a developer. not a designer.<br/>
+something in between that doesn't have a name yet.<br/><br/>
+
+🎮 &nbsp;gamer first. everything else is secondary.<br/>
+🎵 &nbsp;music always running in the background.<br/>
+💡 &nbsp;too many ideas. not enough hours.<br/>
+🔨 &nbsp;vibe coder. AI is the co-pilot.<br/>
 
 <br clear="right"/>
 
----
-
 <br/>
+
+---
 
 ## `/ stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark&perline=5" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/antigravity-installed-000000?style=flat-square&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/sleep-optional-111111?style=flat-square&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ideas-∞-111111?style=flat-square&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark&perline=5" />
+
+<br/><br/>
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=Python;HTML;Git;AI+Tools;antigravity&template=pills-dark&height=36" alt="stack pills" />
+
 </div>
 
 <br/>
 
 ---
-
-<br/>
 
 ## `/ stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=cccccc&border_color=333333&rank_icon=github&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Pranjalbudaniya&theme=transparent&background=00000000&ring=ffffff&fire=cccccc&currStreakLabel=999999&sideLabels=999999&dates=555555&border=333333" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=cccccc&border_color=222222&rank_icon=github&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Pranjalbudaniya&theme=dark&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=888888&sideLabels=888888&dates=444444&border=222222" />
+
 </div>
 
 <br/>
 
 ---
-
-<br/>
 
 ## `/ snake`
 
@@ -78,18 +74,14 @@
 
 ---
 
-<br/>
-
 ## `/ find me`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pranjal-budaniya-3a288b425/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/pranjal_o.o/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-budaniya-3a288b425/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranjal_o.o/)
+
 </div>
 
 <br/>
@@ -97,5 +89,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer&text=always+cooking+something+🔥&fontSize=16&fontColor=444444&fontAlignY=70" width="100%" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=still+loading...&template=terminal-green&height=50" width="400" />
 </div>
