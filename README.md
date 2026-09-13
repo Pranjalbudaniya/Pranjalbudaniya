@@ -1,122 +1,95 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d0d0d,100:1a1a1a&height=250&section=header&text=pranjal&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=fadeIn&stroke=333333&strokeWidth=1" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:111111&height=160&section=header&text=pranjal.&fontSize=80&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=—%20still%20loading&descColor=555555&descSize=18&descAlignY=75" width="100%" />
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=i+build+things+that+don't+exist+yet.;gamer.+music+head.+idea+machine.;html+%2B+python+%2B+too+many+open+tabs.;currently+cooking+something+🔥)](https://git.io/typing-svg)
-
-</div>
-
----
 
 <br/>
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║    not a developer.   not a designer.                    ║
-║    something in between that doesn't have a name yet.    ║
-║                                                          ║
-║    i get an idea at 2am and i make it real.              ║
-║    that's the whole story.                               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=700&color=CCCCCC&center=true&vCenter=true&width=550&lines=gamer.+music+head.+idea+machine.;html+%2B+python+%2B+pure+chaos.;i+get+ideas+at+2am+and+make+them+real.;the+grind+is+quiet.+the+results+won't+be." alt="Typing SVG" />
 </div>
 
 <br/>
 
 ---
 
-### `/ about`
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎮 &nbsp;gamer first. everything else second.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🎵 &nbsp;music is basically running in the background 24/7.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;💡 &nbsp;i have more ideas than time. working on fixing that ratio.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🔨 &nbsp;builder mentality. vibe coder. AI is my co-pilot.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;📖 &nbsp;drop year → learning → shipping. that's the arc.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;☕ &nbsp;the grind is quiet. the results won't be.<br/>
-
 <br/>
+
+## `/ about`
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+&nbsp;&nbsp;&nbsp;not a developer. not a designer.<br/>
+&nbsp;&nbsp;&nbsp;something in between that doesn't have a name yet.<br/><br/>
+&nbsp;&nbsp;&nbsp;🎮 &nbsp;gamer first. everything else is secondary.<br/>
+&nbsp;&nbsp;&nbsp;🎵 &nbsp;music is always running in the background.<br/>
+&nbsp;&nbsp;&nbsp;💡 &nbsp;too many ideas. not enough hours.<br/>
+&nbsp;&nbsp;&nbsp;🔨 &nbsp;vibe coder. AI is the co-pilot.<br/>
+&nbsp;&nbsp;&nbsp;☕ &nbsp;drop year → building → figuring it out.<br/>
+
+<br clear="right"/>
 
 ---
 
-### `/ stack`
+<br/>
+
+## `/ stack`
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark&perline=5" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-%23121212?style=flat-square&logo=python&logoColor=white&labelColor=000000)
-![HTML](https://img.shields.io/badge/HTML-%23121212?style=flat-square&logo=html5&logoColor=white&labelColor=000000)
-![VSCode](https://img.shields.io/badge/VSCode-%23121212?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-%23121212?style=flat-square&logo=git&logoColor=white&labelColor=000000)
-![AI Tools](https://img.shields.io/badge/AI_assisted-%23121212?style=flat-square&logo=anthropic&logoColor=white&labelColor=000000)
-
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark&perline=5" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/antigravity-installed-000000?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/sleep-optional-111111?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ideas-∞-111111?style=flat-square&logoColor=white" />
 </div>
 
 <br/>
 
 ---
 
-### `/ what i'm building`
+<br/>
+
+## `/ stats`
 
 <div align="center">
-
-| project | status | vibe |
-|--------|--------|------|
-| `something with music` | 🔴 idea phase | chaotic |
-| `game concept` | 🟡 thinking hard | unhinged |
-| `web experiments` | 🟢 active | feral |
-| `??? (you'll see)` | 🔵 locked in | trust |
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=cccccc&border_color=333333&rank_icon=github&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Pranjalbudaniya&theme=transparent&background=00000000&ring=ffffff&fire=cccccc&currStreakLabel=999999&sideLabels=999999&dates=555555&border=333333" />
 </div>
 
 <br/>
 
 ---
 
-### `/ stats`
+<br/>
+
+## `/ snake`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333&hide_border=false&rank_icon=github&count_private=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Pranjalbudaniya&theme=transparent&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&border=333333&stroke=00000000" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 <br/>
 
 ---
 
-### `/ activity`
-
-<div align="center">
-
-[![Pranjal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranjalbudaniya&bg_color=000000&color=ffffff&line=444444&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=contribution%20graph)](https://github.com/Pranjalbudaniya)
-
-</div>
-
 <br/>
 
----
-
-### `/ find me`
+## `/ find me`
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/pranjal-budaniya-3a288b425/)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://www.instagram.com/pranjal_o.o/)
-
+  <a href="https://www.linkedin.com/in/pranjal-budaniya-3a288b425/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/pranjal_o.o/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -124,7 +97,5 @@
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer&text=still+loading...&fontSize=20&fontColor=444444&fontAlignY=65&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=100&section=footer&text=always+cooking+something+🔥&fontSize=16&fontColor=444444&fontAlignY=70" width="100%" />
 </div>
