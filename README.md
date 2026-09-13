@@ -1,93 +1,85 @@
 <div align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=pranjal.&template=glitch-cyber&height=160&duration=4s" width="100%" alt="pranjal." />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=PRANJAL&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=GAMER%20%C2%B7%20VIBE%20CODER%20%C2%B7%20CREATOR&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Pranjal banner" />
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&width=700&lines=gamer+first.+everything+else+second.;music+always+running+in+the+background.;html+%2B+python+%2B+pure+chaos.;vibe+coder.+AI+is+the+co-pilot.;too+many+ideas.+not+enough+hours." alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2800&pause=900&color=A8A8A8&center=true&vCenter=true&width=720&lines=building+ideas+one+project+at+a+time.;music+on.+code+open.;html+%2B+python+%2B+AI+tools.;learning%2C+creating%2C+and+having+fun." alt="Typing SVG" />
 
 <br/><br/>
 
----
-
-## `/ about`
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
-
-not a developer. not a designer.<br/>
-something in between that doesn't have a name yet.<br/><br/>
-
-🎮 &nbsp;gamer first. everything else is secondary.<br/>
-🎵 &nbsp;music always running in the background.<br/>
-💡 &nbsp;too many ideas. not enough hours.<br/>
-🔨 &nbsp;vibe coder. AI is the co-pilot.<br/>
-
-<br clear="right"/>
-
-<br/>
-
----
-
-## `/ stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark&perline=5" />
-
-<br/><br/>
-
-<img src="https://gradient-svg-generator.vercel.app/api/svg?text=Python;HTML;Git;AI+Tools;antigravity&template=pills-dark&height=36" alt="stack pills" />
+<a href="https://github.com/Pranjalbudaniya">
+  <img src="https://img.shields.io/badge/GitHub-Pranjalbudaniya-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
+</a>
 
 </div>
 
 <br/>
 
----
+## `> about_me`
 
-## `/ stats`
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation" />
+
+txt
+not a developer. not a designer.
+somewhere in between —
+still learning and building.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=cccccc&border_color=222222&rank_icon=github&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Pranjalbudaniya&theme=dark&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=888888&sideLabels=888888&dates=444444&border=222222" />
+<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark&perline=5" alt="Python, HTML, Git, GitHub and VS Code" />
+
+
+
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=161b22" alt="Python" />
+<img src="https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=161b22" alt="HTML" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=161b22" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
+<img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&labelColor=161b22" alt="Antigravity" />
+<img src="https://img.shields.io/badge/AI%20Tools-0d1117?style=for-the-badge&logo=openai&logoColor=white&labelColor=161b22" alt="AI Tools" />
 
 </div>
 
-<br/>
-
----
-
-## `/ snake`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-## `/ find me`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-budaniya-3a288b425/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranjal_o.o/)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranjalbudaniya&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=30363d&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Pranjalbudaniya&theme=dark&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&border=30363d" alt="GitHub streak stats" />
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjalbudaniya&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub contribution graph" />
 
 </div>
 
-<br/>
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Pranjalbudaniya/Pranjalbudaniya/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 <div align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?text=still+loading...&template=terminal-green&height=50" width="400" />
+
+<a href="https://github.com/Pranjalbudaniya">
+  <img src="https://img.shields.io/badge/GitHub-@Pranjalbudaniya-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub profile" />
+</a>
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Pranjalbudaniya&style=flat-square&color=30363d&label=profile+views" alt="Profile views" />
+
+</div>
+
+
+<div align="center">
+
+<img src="https://gradient-svg-generator.vercel.app/api/svg?text=still+building...&template=terminal-green&height=55" width="420" alt="still building..." />
+
 </div>
