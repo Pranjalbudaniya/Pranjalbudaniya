@@ -45,7 +45,6 @@
 - ▹ **How I Build**: Leveraging AI, prompt engineering, and modern web tools to bring products to life at high velocity.
 - ▹ **Currently Learning**: Python & backend AI integrations / automation.
 - ▹ **Workflow**: AI-assisted development, rapid prototyping, and aesthetic design iteration.
-- ▹ **Active Project**: [`studysnap`](https://github.com/Pranjalbudaniya/studysnap) — building smart tools for modern learning.
 - ▹ **Socials**: Connect with me on [LinkedIn](https://www.linkedin.com/in/pranjal-budaniya-3a288b425/) or drop a DM on [Instagram](https://www.instagram.com/pranjal_o.o/).
 - ▹ **Interests**: AI dev tooling, interactive frontend aesthetics, minimalist UI, and creative technology.
 
