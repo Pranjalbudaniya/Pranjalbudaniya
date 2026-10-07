@@ -8,12 +8,6 @@
 
 <br/>
 
-<!-- Dynamic Typewriter -->
-<a href="https://github.com/Pranjalbudaniya">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=85&lines=%E2%9C%A7+Not+a+developer.+Not+a+designer.+Somewhere+in+between.;%F0%9F%A4%96+Building+%26+shipping+ideas+powered+by+AI.;%E2%9A%A1+Learning+Python+%E2%80%A2+Prompting+%E2%80%A2+Iterating+fast;%F0%9F%8E%A8+TypeScript%2C+Next.js+%26+aesthetic+UI%2FUX." alt="Typing SVG" />
-</a>
-
-<br/>
 <br/>
 
 
@@ -30,59 +24,7 @@
 
 <br/>
 
----
 
-### ✦ About Me
-
-```ascii
- ____________________________________________________________________
-|                                                                    |
-|  "Not a developer. Not a designer.                                |
-|   Somewhere in between — still learning and building with AI."     |
-|____________________________________________________________________|
-```
-
-- ▹ **How I Build**: Leveraging AI, prompt engineering, and modern web tools to bring products to life at high velocity.
-- ▹ **Currently Learning**: Python & backend AI integrations / automation.
-- ▹ **Workflow**: AI-assisted development, rapid prototyping, and aesthetic design iteration.
-- ▹ **Socials**: Connect with me on [LinkedIn](https://www.linkedin.com/in/pranjal-budaniya-3a288b425/) or drop a DM on [Instagram](https://www.instagram.com/pranjal_o.o/).
-- ▹ **Interests**: AI dev tooling, interactive frontend aesthetics, minimalist UI, and creative technology.
-
-<br/>
-
----
-
-### 🤖 AI Toolkit & Workspace
-
-<div align="center">
-
-<!-- AI & Acceleration -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=090d16" alt="Antigravity" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&labelColor=090d16" alt="ChatGPT" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=090d16" alt="Claude" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=090d16" alt="Cursor" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=090d16" alt="v0" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=090d16" alt="Figma" />
-</p>
-
-<br/>
-
-<!-- Web Stack & Ecosystem -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,html,css,git,github,vscode,vercel&theme=dark" alt="Tech Stack" />
-</p>
-
-</div>
-
-<br/>
-
----
 
 ### 📊 Activity & Analytics
 
@@ -118,20 +60,6 @@
 <!-- Top Languages Card -->
 <a href="https://github.com/Pranjalbudaniya">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pranjalbudaniya&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&text_color=e2e8f0&langs_count=6" alt="Top Languages" />
-</a>
-
-</div>
-
-<br/>
-
----
-
-### 🚀 Highlighted Work
-
-<div align="center">
-
-<a href="https://github.com/Pranjalbudaniya/studysnap">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pranjalbudaniya&repo=studysnap&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0" alt="StudySnap" />
 </a>
 
 </div>
